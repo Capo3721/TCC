@@ -1,0 +1,9 @@
+1 - remover os créditos
+
+2 - mostrar as solicitações para todos os prestadores
+
+3 - mostrar no painel do cliente o prestador e a avaliação do mesmo
+
+4 - não deixar o usuário se cadastrar duas vezes
+
+
